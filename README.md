@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Nicolás&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Nicolás%20Cordano&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
 <a href="https://readme-typing-svg.demolab.com">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;React+%7C+Node.js+%7C+REST+APIs;Associate+Degree+in+Programming+%40+UTN" alt="Typing SVG" />
@@ -10,7 +10,7 @@
 
 ## 👋 About me
 
-I'm **Nicolás Cordano**, an **Associate Degree in Programming** from the **National Technological University (UTN) - Bahía Blanca, Argentina**. I have **~2 years of experience** as a **Full-Stack Developer** through personal and freelance projects, focused on web development with **React** and **Node.js**, building **REST APIs**, and testing.
+I'm **Nicolás**, an **Associate Degree in Programming** from the **National Technological University (UTN) - Bahía Blanca, Argentina**. I have **~2 years of experience** as a **Full-Stack Developer** through personal and freelance projects, focused on web development with **React** and **Node.js**, building **REST APIs**, and testing.
 
 🎯 **Goal:** grow professionally and deliver high-quality software solutions.
 
