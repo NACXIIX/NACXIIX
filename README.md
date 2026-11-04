@@ -54,11 +54,6 @@ I'm **Nicolás**, an **Associate Degree in Programming** from the **National Tec
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 
-## 📌 Featured Projects
-
-- 🧪 [**ASO2024_PARCIAL**](https://github.com/NACKIIX/ASO2024_PARCIAL)
-- 🎮 [**NAG_GAMESITOS_HUB**](https://github.com/NACKIIX/NAG_GAMESITOS_HUB)
-
 ## 📊 GitHub Stats
 
 <div align="center">
