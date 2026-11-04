@@ -58,10 +58,10 @@ I'm **Nicolás**, an **Associate Degree in Programming** from the **National Tec
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=NACKIIX&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NACKIIX&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=NACKIIX&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=NACKIIX&layout=compact&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NACKIIX&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=NACKIIX&theme=tokyonight&hide_border=true" />
 
 </div>
 
