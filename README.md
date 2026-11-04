@@ -10,7 +10,7 @@
 
 ## 👋 About me
 
-I'm **Nicolás**, an **Associate Degree in Programming** from the **National Technological University (UTN) - Bahía Blanca, Argentina**. I have **~2 years of experience** as a **Full-Stack Developer** through personal and freelance projects, focused on web development with **React** and **Node.js**, building **REST APIs**, and testing.
+I'm **Nicolás Cordano**, an **Associate Degree in Programming** from the **National Technological University (UTN) - Bahía Blanca, Argentina**. I have **~2 years of experience** as a **Full-Stack Developer** through personal and freelance projects, focused on web development with **React** and **Node.js**, building **REST APIs**, and testing.
 
 🎯 **Goal:** grow professionally and deliver high-quality software solutions.
 
